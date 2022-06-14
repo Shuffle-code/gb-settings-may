@@ -6,5 +6,5 @@ spring.datasource:
 gb.api:
   endpoint:
     base-uri: '127.0.0.1:8080'
-    manufacturer-url: 'http://${gb.api.endpoint.base-uri}/api/v1/manufacturer'
+#    manufacturer-url: 'http://${gb.api.endpoint.base-uri}/api/v1/manufacturer'
 app.setting: 'dv'
